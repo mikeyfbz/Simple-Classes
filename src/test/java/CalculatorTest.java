@@ -31,4 +31,5 @@ public class CalculatorTest {
     public void theCalculatorCanDivideTwoNumbers(){
         assertEquals(1.33, calculator.divide(), 0.01);
     }
+
 }
